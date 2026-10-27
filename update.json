@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "available": true,
+  "versionCode": 13,
+  "versionName": "0.1.12",
+  "apkUrl": "https://github.com/retne501/SafeSwitch-Releases/releases/download/safeswitch-v0.1.12/SafeSwitch-v0.1.12-release.apk",
+  "sha256": "cedfa0f8195426dfb84d75963b7dbe63e4b33d65d069465b711caaa4fbe22e30",
+  "notes": "嘻安官 0.1.12 封版：延續 S24 已驗證的第 5 鍵 Samsung 原生「無線偵錯」定位，主畫面新增版本顯示。Windows 與 MacBook 透過 S24 加密交換一致的 APK 簽章。直接覆蓋安裝，請勿移除原 App。"
+}
